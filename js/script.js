@@ -29,7 +29,7 @@ function verificaParieDispari(numdaVerificare) {
 const risultatoPariDispari = verificaPariDispari(sommaNumeriGiocati);
 console.log("La somma dei due numeri è un numero");
 
-if (risultatoPariDispari ===  sceltaUtenteParioDispari) {
+if (risultatoPariDispari === sceltaUtenteParioDispari) {
     console.log("Congratulazioni, hai vinto!");
 } else {
     console.log("Ha vinto il computer");

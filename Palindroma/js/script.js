@@ -1,6 +1,6 @@
 // Chiedo all'utente di inserire una parola //
 let parola = prompt("Inserisci parola");
-console.log(parolaPalindroma(Parola));
+console.log(parolaPalindroma(parola));
 
 // Creo una funzione per verificare se la parola è palindroma //
 function verificaParolaPalindroma(Stringa) {
